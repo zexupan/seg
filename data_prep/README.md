@@ -16,6 +16,7 @@ Prepare the dataset in the following file structure
 	    |── val/data.mdb     	# The original val set contains data.mdb & lock.mdb
 	    └── test/data.mdb		# The original test set contains data.mdb & lock.mdb
 
-The ZIP file containing data.mdb & lock.mdb can bo downloaded from [here](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context), which is originated from [Youtube Gesture Dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset).
+The data.mdb & lock.mdb can bo obtained from [here](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) by following the guide: 
+1. Installation 2.Preparation and 3. Synthesize from TED speech.
 
 
